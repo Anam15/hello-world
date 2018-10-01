@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/dtS5Ged"><a href="//imgur.com/dtS5Ged" width=200></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src="https://imgur.com/a/dtS5Ged" width=200/><br>
 
 
